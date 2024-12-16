@@ -1,5 +1,5 @@
-doc = projekt I
-src = projekt II
+- doc = projekt I
+- src = projekt II (již hodnoceno)
 
 ---
 
