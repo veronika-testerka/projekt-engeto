@@ -1,3 +1,8 @@
+doc = projekt I
+src = projekt II
+
+---
+
 test_dmcz - test_kosik.py
 1. otevře se stránka https://www.dm.cz/
 2. odmítne cookies
@@ -21,3 +26,4 @@ test_vouchery_kreativniceskocz - test_detail.py
 4. na této stránce přes vyhledávací pole vyhledáme jméno Lenka
 5. z vyhledaných vybereme druhou v pořadí
 6. ověříme, že je profil načten
+
